@@ -1,1 +1,1 @@
-Initial website commit.
+Welcome! I am a PhD student at the University of Washington focusing on the structure and function of mutualistic networks. This is my personal webpage where you can get information about my current and past work.
