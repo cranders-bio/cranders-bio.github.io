@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Chris Anderson
 description: Computational Ecology
-logo: bee.jpg
+logo: assets/img/bee.jpg
+affiliation_link: https://brosilab.org/people/chris-anderson/
+affiliation_logo: assets/img/brosi_logo.png
+email: cander20 (at) uw.edu
